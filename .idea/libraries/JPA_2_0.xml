@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JPA 2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Desktopapplikationer/mysql-connector-java-3.1.14-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
